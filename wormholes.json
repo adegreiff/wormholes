@@ -264,5 +264,24 @@
         "population": 0
       }
     ]
+  },
+  {
+    "name": "Mailand",
+    "locations": [
+      {
+        "lat": 45.4642,
+        "lon": 9.19,
+        "country": "Italy",
+        "state": "Lombardy",
+        "population": 0
+      },
+      {
+        "lat": 54,
+        "lon": 12,
+        "country": "Germany",
+        "state": "Mecklenburg",
+        "population": 0
+      }
+    ]
   }
 ]
