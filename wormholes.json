@@ -283,5 +283,24 @@
         "population": 0
       }
     ]
+  },
+  {
+    "name": "Milano",
+    "locations": [
+      {
+        "lat": 45.4642,
+        "lon": 9.19,
+        "country": "Italy",
+        "state": "Lombardy",
+        "population": 0
+      },
+      {
+        "lat": 45.496,
+        "lon": 19.1241,
+        "country": "Serbia",
+        "state": "Belgrade",
+        "population": 0
+      }
+    ]
   }
 ]
