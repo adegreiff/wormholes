@@ -245,5 +245,24 @@
         "population": 15000
       }
     ]
+  },
+  {
+    "name": "TestWormhole",
+    "locations": [
+      {
+        "lat": 48.1486,
+        "lon": 17.1071,
+        "country": "Austria",
+        "state": "Wien",
+        "population": 0
+      },
+      {
+        "lat": 48.3665,
+        "lon": 11.7861,
+        "country": "Germany",
+        "state": "Bavaria",
+        "population": 0
+      }
+    ]
   }
 ]
