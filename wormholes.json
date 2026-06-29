@@ -302,5 +302,24 @@
         "population": 0
       }
     ]
+  },
+  {
+    "name": "Basel",
+    "locations": [
+      {
+        "lat": 47.5596,
+        "lon": 7.5886,
+        "country": "Switzerland",
+        "state": "Basel-Stadt",
+        "population": 0
+      },
+      {
+        "lat": 48.1486,
+        "lon": 4.8087,
+        "country": "France",
+        "state": "Aube",
+        "population": 0
+      }
+    ]
   }
 ]
