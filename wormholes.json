@@ -247,25 +247,6 @@
     ]
   },
   {
-    "name": "TestWormhole",
-    "locations": [
-      {
-        "lat": 48.1486,
-        "lon": 17.1071,
-        "country": "Austria",
-        "state": "Wien",
-        "population": 0
-      },
-      {
-        "lat": 48.3665,
-        "lon": 11.7861,
-        "country": "Germany",
-        "state": "Bavaria",
-        "population": 0
-      }
-    ]
-  },
-  {
     "name": "Mailand",
     "locations": [
       {
@@ -281,18 +262,6 @@
         "country": "Germany",
         "state": "Allgäu",
         "population": 0
-      }
-    ]
-  },
-  {
-    "name": "Milano",
-    "locations": [
-      {
-        "lat": 45.4642,
-        "lon": 9.19,
-        "country": "Italy",
-        "state": "Lombardy",
-        "population": 0
       },
       {
         "lat": 45.496,
@@ -300,7 +269,7 @@
         "country": "Serbia",
         "state": "Belgrade",
         "population": 0
-      }
+      }      
     ]
   },
   {
