@@ -64,7 +64,56 @@
         "lon": 8.6313,
         "country": "Germany",
         "state": "Rhineland-Palatinate",
-        "population": 14000
+        "population": 54000
+      },
+      {
+        "lat": 52.5044,
+        "lon": 9.4622,
+        "country": "Germany",
+        "state": "Lower Saxony",
+        "population": 45000
+      },
+      {
+        "lat": 54.1083,
+        "lon": 10.8178,
+        "country": "Germany",
+        "state": "Schleswig-Holstein",
+        "population": 15000
+      },
+      {
+        "lat": 47.8136,
+        "lon": 16.2447,
+        "country": "Austria",
+        "state": "Lower Austria",
+        "population": 48000
+      },
+      {
+        "lat": 50.3306,
+        "lon": 11.9311,
+        "country": "Germany",
+        "state": "Bavaria",
+        "population": 15000
+      },
+      {
+        "lat": 49.5658,
+        "lon": 10.6053,
+        "country": "Germany",
+        "state": "Bavaria",
+        "population": 13000
+      },
+      {
+        "lat": 51.1472,
+        "lon": 14.2139,
+        "country": "Germany",
+        "state": "Saxony",
+        "population": 12000
+      },
+      {
+        "lat": 52.9378,
+        "lon": 12.4189,
+        "country": "Germany",
+        "state": "Brandenburg",
+        "population": 12000
       },
       {
         "lat": 50.3736,
@@ -254,22 +303,22 @@
         "lon": 9.19,
         "country": "Italy",
         "state": "Lombardy",
-        "population": 0
+        "population": 1370000
       },
       {
-        "lat": 47.853461443518405,
-        "lon": 10.01534084891853,
+        "lat": 47.8535,
+        "lon": 10.0153,
         "country": "Germany",
-        "state": "Allgäu",
-        "population": 0
+        "state": "Bavaria",
+        "population": 100
       },
       {
         "lat": 45.496,
         "lon": 19.1241,
         "country": "Serbia",
-        "state": "Belgrade",
+        "state": "Vojvodina",
         "population": 0
-      }      
+      }
     ]
   },
   {
@@ -280,14 +329,14 @@
         "lon": 7.5886,
         "country": "Switzerland",
         "state": "Basel-Stadt",
-        "population": 0
+        "population": 175000
       },
       {
         "lat": 48.1486,
         "lon": 4.8087,
         "country": "France",
-        "state": "Aube",
-        "population": 0
+        "state": "Grand Est",
+        "population": 300
       }
     ]
   }
