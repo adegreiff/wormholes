@@ -1,0 +1,249 @@
+[
+  {
+    "name": "Linz",
+    "locations": [
+      {
+        "lat": 50.3811,
+        "lon": 7.5906,
+        "country": "Germany",
+        "state": "Rhineland-Palatinate",
+        "population": 8500
+      },
+      {
+        "lat": 48.3065,
+        "lon": 14.2858,
+        "country": "Austria",
+        "state": "Upper Austria",
+        "population": 206000
+      }
+    ]
+  },
+  {
+    "name": "Koblenz",
+    "locations": [
+      {
+        "lat": 50.3536,
+        "lon": 7.6089,
+        "country": "Germany",
+        "state": "Rhineland-Palatinate",
+        "population": 105000
+      },
+      {
+        "lat": 47.5679,
+        "lon": 8.7664,
+        "country": "Switzerland",
+        "state": "Aargau",
+        "population": 3500
+      }
+    ]
+  },
+  {
+    "name": "Freiburg",
+    "locations": [
+      {
+        "lat": 48.0021,
+        "lon": 7.8421,
+        "country": "Germany",
+        "state": "Baden-Württemberg",
+        "population": 231000
+      },
+      {
+        "lat": 46.8047,
+        "lon": 7.1625,
+        "country": "Switzerland",
+        "state": "Fribourg",
+        "population": 38000
+      }
+    ]
+  },
+  {
+    "name": "Neustadt",
+    "locations": [
+      {
+        "lat": 49.3569,
+        "lon": 8.6313,
+        "country": "Germany",
+        "state": "Rhineland-Palatinate",
+        "population": 14000
+      },
+      {
+        "lat": 50.3736,
+        "lon": 14.4469,
+        "country": "Czech Republic",
+        "state": "Central Bohemia",
+        "population": 8500
+      }
+    ]
+  },
+  {
+    "name": "Mühlheim",
+    "locations": [
+      {
+        "lat": 51.4256,
+        "lon": 6.8897,
+        "country": "Germany",
+        "state": "North Rhine-Westphalia",
+        "population": 280000
+      },
+      {
+        "lat": 48.5734,
+        "lon": 7.4644,
+        "country": "France",
+        "state": "Grand Est",
+        "population": 4500
+      }
+    ]
+  },
+  {
+    "name": "Grünerwald",
+    "locations": [
+      {
+        "lat": 48.6833,
+        "lon": 2.2667,
+        "country": "France",
+        "state": "Île-de-France",
+        "population": 2500
+      },
+      {
+        "lat": 51.6833,
+        "lon": 12.5833,
+        "country": "Germany",
+        "state": "Saxony-Anhalt",
+        "population": 8000
+      }
+    ]
+  },
+  {
+    "name": "Friedrichsdorf",
+    "locations": [
+      {
+        "lat": 50.2336,
+        "lon": 8.7108,
+        "country": "Germany",
+        "state": "Hesse",
+        "population": 27000
+      },
+      {
+        "lat": 52.5939,
+        "lon": 13.3444,
+        "country": "Germany",
+        "state": "Berlin",
+        "population": 15000
+      }
+    ]
+  },
+  {
+    "name": "Neuenkirchen",
+    "locations": [
+      {
+        "lat": 49.55,
+        "lon": 7.4333,
+        "country": "Germany",
+        "state": "Rhineland-Palatinate",
+        "population": 5000
+      },
+      {
+        "lat": 52.05,
+        "lon": 7.8667,
+        "country": "Germany",
+        "state": "North Rhine-Westphalia",
+        "population": 6000
+      }
+    ]
+  },
+  {
+    "name": "Valencia",
+    "locations": [
+      {
+        "lat": 39.4699,
+        "lon": -0.3763,
+        "country": "Spain",
+        "state": "Valencia",
+        "population": 800000
+      },
+      {
+        "lat": 44.9333,
+        "lon": 4.8917,
+        "country": "France",
+        "state": "Auvergne-Rhône-Alpes",
+        "population": 64000
+      }
+    ]
+  },
+  {
+    "name": "Brest",
+    "locations": [
+      {
+        "lat": 48.3903,
+        "lon": -4.4861,
+        "country": "France",
+        "state": "Brittany",
+        "population": 140000
+      },
+      {
+        "lat": 52.0977,
+        "lon": 23.7341,
+        "country": "Belarus",
+        "state": "Brest Region",
+        "population": 340000
+      }
+    ]
+  },
+  {
+    "name": "Oldenburg",
+    "locations": [
+      {
+        "lat": 53.1435,
+        "lon": 8.2146,
+        "country": "Germany",
+        "state": "Lower Saxony",
+        "population": 170000
+      },
+      {
+        "lat": 54.2931,
+        "lon": 10.8864,
+        "country": "Germany",
+        "state": "Schleswig-Holstein",
+        "population": 10000
+      }
+    ]
+  },
+  {
+    "name": "Santiago",
+    "locations": [
+      {
+        "lat": 42.8782,
+        "lon": -8.5448,
+        "country": "Spain",
+        "state": "Galicia",
+        "population": 98000
+      },
+      {
+        "lat": 41.65,
+        "lon": -8.45,
+        "country": "Portugal",
+        "state": "Braga",
+        "population": 12000
+      }
+    ]
+  },
+  {
+    "name": "Rheine",
+    "locations": [
+      {
+        "lat": 52.2794,
+        "lon": 7.4394,
+        "country": "Germany",
+        "state": "North Rhine-Westphalia",
+        "population": 76000
+      },
+      {
+        "lat": 51.4833,
+        "lon": 6.6333,
+        "country": "Germany",
+        "state": "North Rhine-Westphalia",
+        "population": 15000
+      }
+    ]
+  }
+]
